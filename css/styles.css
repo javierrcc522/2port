@@ -1,7 +1,8 @@
 p{
-  font-size: 30px;
+  font-size: 22px;
   font-family: sans-serif;
   text-align: center;
+  font-weight: lighter;
 }
 h1{
   text-align: center;
@@ -31,7 +32,6 @@ h1{
 }
 #aboutme1 p{
   font-size: 22px;
-  width: 40%;
   text-align: center;
   font-weight: lighter;
   border: 2px solid green;
@@ -41,7 +41,6 @@ h1{
 #aboutme1 img{
   width: 50%;
   height: 50%;
-  float:right;
 
 }
 .index-bg{
@@ -50,11 +49,6 @@ h1{
   background-attachment: fixed;
 }
 
-.imageindex img{
-  position: absolute;
-  left: 0;
-  bottom: 0;
-}
 .aboutME-bg{
   background-image: url("../images/aboutme1.jpg");
   background-repeat: no-repeat;
