@@ -44,11 +44,6 @@ h1{
   background-attachment: fixed;
 }
 
-.imageindex img{
-  position: absolute;
-  left: 0;
-  bottom: 0;
-}
 .aboutME-bg{
   background-image: url("../images/aboutme1.jpg");
   background-repeat: no-repeat;
