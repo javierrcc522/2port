@@ -36,6 +36,7 @@ p{
   background-image: url("../images/indexGround.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-position: center;
 }
 .projects-bg{
   background-image: url("../images/project1.jpg");
