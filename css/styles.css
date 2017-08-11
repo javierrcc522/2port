@@ -1,23 +1,13 @@
-p{
-  font-size: 22px;
-  font-family: sans-serif;
-  text-align: center;
-  font-weight: lighter;
-}
 h1{
   text-align: center;
   font-weight: lighter;
   font-size: 60px;
 }
-
-.images-circle {
-    border-radius: 20%;
-  }
-
-.body1 p{
-  font-size: 20px;
-  width: 300px;
-  font-family: inherit;
+p{
+  font-size: 22px;
+  font-family: sans-serif;
+  text-align: center;
+  font-weight: lighter;
 }
 .star2{
   color: #000066;
@@ -26,7 +16,7 @@ h1{
   color: #b34700
 }
 #aboutme1 p{
-  font-size: 22px;
+  font-size: 27px;
   text-align: center;
   font-weight: lighter;
   border: 2px solid green;
@@ -36,16 +26,14 @@ h1{
 #aboutme1 img{
   width: 30%;
   height: 30%;
-
+  float: left;
+}
+#user img{
+  width: 40%;
+  height: 40%;
 }
 .index-bg{
   background-image: url("../images/indexGround.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
-
-.aboutME-bg{
-  background-image: url("../images/aboutme1.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
@@ -62,14 +50,9 @@ h1{
 }
 
 li{
-  font-size: 16px;
-
+  font-size: 20px;
 }
-
-
 a{
   font-size: 20px;
-  color: pink;
-
-
+  color: black;
 }
