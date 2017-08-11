@@ -39,13 +39,11 @@ p{
 }
 .projects-bg{
   background-image: url("../images/project1.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
 }
 .whitefont{
   color: white;
 }
-.col-md-4{
+.row{
   text-align: center;
 }
 li{
