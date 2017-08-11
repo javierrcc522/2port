@@ -36,7 +36,6 @@ p{
   background-image: url("../images/indexGround.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center;
 }
 .projects-bg{
   background-image: url("../images/project1.jpg");
@@ -49,9 +48,8 @@ p{
 .col-md-4{
   text-align: center;
 }
-
 li{
-  font-size: 20px;
+  font-size: 16px;
 }
 a{
   font-size: 20px;
